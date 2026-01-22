@@ -46,7 +46,7 @@ app.post('/upload', authMiddleWare, upload.single('image'), async (req, res) => 
 
     } catch (error) {
         return res.status(500).json({
-            message: "Internal server error",
+            message: "Internal server errors",
             error: error.message,
             success: false,
         })

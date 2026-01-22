@@ -104,22 +104,22 @@
 ## 📅 Day 5: Real Project + Deployment
 
 ### Build Complete API
-- [ ] Plan API structure
-- [ ] Create all models
-- [ ] Create all routes
-- [ ] Add authentication
-- [ ] Add validation
-- [ ] Test all endpoints
+- [x] Plan API structure
+- [x] Create all models
+- [x] Create all routes
+- [x] Add authentication
+- [x] Add validation
+- [x] Test all endpoints
 
 ### Environment & Config
-- [ ] Install dotenv
-- [ ] Create `.env` file
-- [ ] Use environment variables
-- [ ] Create `.gitignore`
+- [x] Install dotenv
+- [x] Create `.env` file
+- [x] Use environment variables
+- [x] Create `.gitignore`
 
 ### Deployment
-- [ ] Create account on Railway/Render
-- [ ] Push to GitHub
+- [x] Push to GitHub
+- [ ] Create account on Railway/Render (optional - needs card)
 - [ ] Deploy to cloud
 - [ ] Test live API
 
@@ -158,7 +158,7 @@
 | Day 2 | ✅ Completed | |
 | Day 3 | ✅ Completed | JWT Auth + Protected Routes |
 | Day 4 | ✅ Completed | MVC + Validation + Uploads |
-| Day 5 | ⬜ Not Started | |
+| Day 5 | ✅ Completed | GitHub + Ready for Deploy |
 
 ---
 
